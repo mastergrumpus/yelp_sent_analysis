@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+Data/.ipynb_checkpoints/
+Data/yelp_academic_dataset_review.json
+Data/yelp_academic_dataset_business.json
+Data/yelp_restaurant_reviews.csv
+review.db
+Images/
